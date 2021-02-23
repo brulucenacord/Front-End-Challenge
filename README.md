@@ -25,6 +25,7 @@
   - Metragem
   - Qtde Dormitórios
   - Preço (Aluguel + Condominio)
+
 <br/>:computer: - Tela de detalhe do imóvel é exibida ao clicar em um item da home. (Exibir todos dados retornado no json)
 <br/>:computer: - Campo de busca na Home para filtrarmos por cidade
 
