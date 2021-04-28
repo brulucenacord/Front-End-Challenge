@@ -11,7 +11,7 @@
 <br/>:computer: - Trabalhar com camadas, components, services, models e etc...
 <br/>:computer: - A fonte de dados que será consumida, será mocada em um json (anexado neste repo imoveis.json)
 <br/>:computer: - Desenvolver testes unitários para os principais métodos
-<br/>:computer: - Ao finalizar o projeto, subir em um repositório git e dar acesso ao usuario brunohenz e brulucenacord
+<br/>:computer: - Ao finalizar o projeto, subir em um repositório git e dar acesso ao usuario brunohenz, ericopneto e brulucenacord
 
 #### Detalhes do Projeto
 
